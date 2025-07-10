@@ -1,0 +1,35 @@
+﻿@page "{id:int}"
+@model SistemaAcademico.Pages.Carreras.EditCarreraModel
+@{
+}
+
+<form method="post">
+
+    <input type="hidden" asp-for="CarrerasP.Id">
+
+    <div class="form-group">
+        <label asp-for="CarrerasP.Nombre"></label>
+        <input asp-for="CarrerasP.Nombre" class="form-control" />
+        <span asp-validation-for="CarrerasP.Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CarrerasP.DuracionAnios"></label>
+        <input asp-for="CarrerasP.DuracionAnios" class="form-control" />
+        <span asp-validation-for="CarrerasP.DuracionAnios" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CarrerasP.TituloOtorgado"></label>
+        <input asp-for="CarrerasP.TituloOtorgado" class="form-control" />
+        <span asp-validation-for="CarrerasP.TituloOtorgado" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CarrerasP.Modalidad"></label>
+        <select asp-for="CarrerasP.Modalidad" asp-items="@(new SelectList(Model.Modalidades))" class="form-control">
+            <option value="@Model.CarrerasP.Modalidad">Seleccione una opcion</option>
+        </select>
+        <span asp-validation-for="CarrerasP.Modalidad" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+
+</form>

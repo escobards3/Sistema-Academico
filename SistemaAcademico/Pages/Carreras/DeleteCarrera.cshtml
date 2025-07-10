@@ -1,0 +1,29 @@
+﻿@page
+@model SistemaAcademico.Pages.Carreras.DeleteCarreraModel
+@{
+}
+
+<input type="hidden" asp-for="CarrerasP.Id">
+
+<form method="post">
+
+    <h4>¿Estás seguro de que queres eliminar esta carrera?</h4>
+
+    <div>
+        <strong>Nombre: </strong> @Model.CarrerasP.Nombre
+    </div>
+    <div>
+        <strong>Modalidad: </strong> @Model.CarrerasP.Modalidad
+    </div>
+    <div>
+        <strong>Duracion: </strong> @Model.CarrerasP.DuracionAnios años
+    </div>
+    <div>
+        <strong>Título Otorgado: </strong> @Model.CarrerasP.TituloOtorgado
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-page="/Carreras/TablaCarreras" class="btn btn-secondary">Cancelar</a>
+</form>

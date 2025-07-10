@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\carreras\\editcarrera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\carreras\\editcarrera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\alumnos\\editalumno.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\alumnos\\editalumno.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\alumnos\\deletealumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\alumnos\\deletealumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\alumnos\\createalumno.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\alumnos\\createalumno.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\data\\datoscompartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\data\\datoscompartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\data\\carreras.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\data\\carreras.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\carreras\\editcarrera.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\carreras\\editcarrera.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\carreras\\tablacarreras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\carreras\\tablacarreras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\servicios\\servicioalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\servicios\\servicioalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\repositorios\\repositoriocrudjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\repositorios\\repositoriocrudjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\data\\carrera.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\data\\carrera.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\estudiante\\source\\repos\\sistemaacademico\\sistemaacademico\\pages\\carreras\\tablacarreras.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069B0AE-BBEA-4F2C-A4B3-873D500A3735}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\pages\\carreras\\tablacarreras.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosCompartidos.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Data\\DatosCompartidos.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Data\\DatosCompartidos.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Data\\DatosCompartidos.cs",
+              "RelativeToolTip": "SistemaAcademico\\Data\\DatosCompartidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:51:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carreras.json",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Data\\Carreras.json",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Data\\Carreras.json",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Data\\Carreras.json",
+              "RelativeToolTip": "SistemaAcademico\\Data\\Carreras.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T01:40:17.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAlumno.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Alumnos\\CreateAlumno.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Alumnos\\CreateAlumno.cshtml.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Alumnos\\CreateAlumno.cshtml.cs",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Alumnos\\CreateAlumno.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:37:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteAlumno.cshtml",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Alumnos\\DeleteAlumno.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Alumnos\\DeleteAlumno.cshtml",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Alumnos\\DeleteAlumno.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Alumnos\\DeleteAlumno.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T00:39:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditAlumno.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Alumnos\\EditAlumno.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Alumnos\\EditAlumno.cshtml.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Alumnos\\EditAlumno.cshtml.cs",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Alumnos\\EditAlumno.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:28:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditCarrera.cshtml",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T00:54:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditCarrera.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml.cs",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Carreras\\EditCarrera.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:50:30.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TablaCarreras.cshtml",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T01:10:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\AccesoDatos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\AccesoDatos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\AccesoDatos\\AccesoDatos.cs",
+              "RelativeToolTip": "SistemaAcademico\\AccesoDatos\\AccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:46:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Program.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Program.cs",
+              "RelativeToolTip": "SistemaAcademico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:07:29.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicioAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Servicios\\ServicioAlumno.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Servicios\\ServicioAlumno.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Servicios\\ServicioAlumno.cs",
+              "RelativeToolTip": "SistemaAcademico\\Servicios\\ServicioAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:19:40.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositorioCrudJson.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Repositorios\\RepositorioCrudJson.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Repositorios\\RepositorioCrudJson.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Repositorios\\RepositorioCrudJson.cs",
+              "RelativeToolTip": "SistemaAcademico\\Repositorios\\RepositorioCrudJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:13:41.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T01:11:32.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TablaCarreras.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml.cs",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml.cs",
+              "RelativeToolTip": "SistemaAcademico\\Pages\\Carreras\\TablaCarreras.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:09:42.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Carrera.Json",
+              "DocumentMoniker": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Data\\Carrera.Json",
+              "RelativeDocumentMoniker": "SistemaAcademico\\Data\\Carrera.Json",
+              "ToolTip": "C:\\Users\\estudiante\\source\\repos\\SistemaAcademico\\SistemaAcademico\\Data\\Carrera.Json",
+              "RelativeToolTip": "SistemaAcademico\\Data\\Carrera.Json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T01:32:03.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
